@@ -10,4 +10,4 @@ R: If the canisters are on the same subnet, you will need 2 rounds of consensus,
 
 3. Is possible to realize an intercanister call in query mode?
 
-R: Yes, it is possible
+R: Yes, it is possible 
