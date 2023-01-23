@@ -8,6 +8,6 @@ R:True, we can prevent the heap being erased always if the type of the variable 
 R: If the canisters are on the same subnet, you will need 2 rounds of consensus, one round is equivalent to 2 seconds, so 2*2 = 4 seconds. If the canisters are on different subnets, you will need 4 rounds of consensus, so 4*2 = 8 seconds.
 
 
-Is possible to realize an intercanister call in query mode?
+3. Is possible to realize an intercanister call in query mode?
 
 R: Yes, it is possible
